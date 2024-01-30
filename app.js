@@ -6,11 +6,12 @@ console log the final array
 
 */
 
-let fruits = [ 22, 32, 43, 55, 12, 24 ];
+let fruits = [ 'jam', 'amm', 'peara', 'komola', 'licu' ];
 
 document.write(fruits);
 
-// let third_element = ;
 
-document.write('<br> the lenth of array .' + fruits.length )
-// third_element
+document.write('<br> the lenth of array .' + fruits.length );
+
+let theThirdNum = fruits[3];
+document.write( '<br> the third num of array .' + theThirdNum);
