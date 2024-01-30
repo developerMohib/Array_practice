@@ -6,6 +6,11 @@ console log the final array
 
 */
 
-let fruits = [ 'amm, jamm, katal, peara, boroi'];
+let fruits = [ 22, 32, 43, 55, 12, 24 ];
 
 document.write(fruits);
+
+// let third_element = ;
+
+document.write('<br> the lenth of array .' + fruits.length )
+// third_element
