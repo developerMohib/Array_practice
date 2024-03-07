@@ -12,7 +12,7 @@ document.write( '<br> All picnic Spot = ' + picnicSpot);
 let add_spot = picnicSpot.push(' Sylhet');
 document.write( '<br> add spot and new array = ' + picnicSpot);
 
-// add two in middle 
+// add two in middle splice
 add_spot = picnicSpot.unshift(' Khulna');
 document.write( '<br> add spot and new array = ' + picnicSpot);
 

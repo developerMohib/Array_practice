@@ -1,0 +1,6 @@
+	
+	=> Declear an Array 
+	1. How can u find index number of Element ?
+	2. Change the Element
+	3. New add an element in Array 
+	4. Remove First and last Element Form Array
